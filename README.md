@@ -1,5 +1,4 @@
 
-
 ## 🔥 **Clone this Repository** 💫
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
